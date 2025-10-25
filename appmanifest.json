@@ -1,11 +1,15 @@
 {
-	"name": "Cards 2048",
+	"name": "Cards 2048 - Play Free Online Card Puzzle Game",
 	"short_name": "Cards 2048",
-	"description": "Cards 2048",
+	"description": "Match and merge numbered cards to reach 2048 in this addictive puzzle game. Challenge your brain with Cards 2048 - free to play, no download required!",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "portrait",
-	"background_color": "#ffffff",
+	"background_color": "#000000",
+	"theme_color": "#000000",
+	"categories": ["games", "puzzle", "education", "entertainment"],
+	"lang": "en",
+	"dir": "ltr",
 	"icons": [
 		{
 			"src": "icons/icon-16.png",
